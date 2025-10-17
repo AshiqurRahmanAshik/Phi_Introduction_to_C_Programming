@@ -1,0 +1,1 @@
+{"name":"Local: 004_sum_sum","url":"f:\\2.Phitron\\1.Introduction to C Programming\\Module 8 Assignment 2\\004_sum_sum.c","tests":[{"id":1760677526040,"input":"6\n5 -3 9 -10 2 8 ","output":"24 -13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\2.Phitron\\1.Introduction to C Programming\\Module 8 Assignment 2\\004_sum_sum.c","group":"local","local":true}
